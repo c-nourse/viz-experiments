@@ -1,8 +1,10 @@
 # viz-experiments
----
+
 In order to get acquainted with D3.js I explored creating simple visualisations with algorithms.
 
 ## Baravelle Spiral
+
+![Baravelle Spiral](/baravelle-spiral/baravelle_spiral.png?raw=true "The spiral")
 
 The baravelle spiral is created by placing squares in one another with each new square's vertices placed at the midpoints of the sides of the previous square. I considered instead the triangles that form as part of this process to better understand how to create the spiral pattern.
 
@@ -28,7 +30,7 @@ python -m SimpleHTTPServer
 
 Clicking on individual triangles fills them in black and additional squares can be added. Here is an example of what one can make:
 
-![Image: Algo planning](/baravelle-spiral/example.png?raw=true "Shape created")
+![Image: Playing around](/baravelle-spiral/example.png?raw=true "Shape created")
 
 ### TODO  
 - [ ] Animate the spiral formation.
