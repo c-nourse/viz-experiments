@@ -8,7 +8,7 @@ The baravelle spiral is created by placing squares in one another with each new 
 
 Here is a little working out, which can help to explain the code.
 
-![]()
+![Image: Algo planning](/baravelle-spiral/baravelle_planning.jpg?raw=true "Getting to grips")
 
 ### Usage
 
