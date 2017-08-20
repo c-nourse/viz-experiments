@@ -22,5 +22,13 @@ python -m http.server
 # Python 2
 python -m SimpleHTTPServer
 ```
-TODO  
-[ ] Animate the spiral formation.
+* Open a browser and go to localhost:8000/  
+
+### Example
+
+Clicking on individual triangles fills them in black and additional squares can be added. Here is an example of what one can make:
+
+![Image: Algo planning](/baravelle-spiral/example.png?raw=true "Shape created")
+
+### TODO  
+- [ ] Animate the spiral formation.
