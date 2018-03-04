@@ -4,7 +4,7 @@ In order to get acquainted with D3.js I explored creating simple visualisations 
 
 ## Drawing with D3
 
-Building out the examples from Fabian Dubois' book ![Drawing Like Vladislav Mirvald with D3.js](https://gumroad.com/l/mirvald).
+Building out the examples from Fabian Dubois' book [Drawing Like Vladislav Mirvald with D3.js](https://gumroad.com/l/mirvald).
 
 ## Baravelle Spiral
 
