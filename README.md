@@ -2,6 +2,10 @@
 
 In order to get acquainted with D3.js I explored creating simple visualisations with algorithms.
 
+## Drawing with D3
+
+Building out the examples from Fabian Dubois' book ![Drawing Like Vladislav Mirvald with D3.js](https://gumroad.com/l/mirvald).
+
 ## Baravelle Spiral
 
 ![Baravelle Spiral](/baravelle-spiral/baravelle_spiral.png?raw=true "The spiral")
@@ -15,7 +19,7 @@ Here is a little working out, which can help to explain the code.
 ### Usage
 
 * Download the baravelle.html page.
-* Run a basic server (I  use Python for this).
+* Run a basic server (I use Python for this).
   
 ```Python
 # Python 3

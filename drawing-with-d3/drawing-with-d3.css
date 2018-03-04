@@ -1,0 +1,26 @@
+/* css for mirvald 1 */
+
+svg {
+  background: #fff;
+}
+
+.circle-struktura {
+  fill: none;
+  stroke: #000;
+}
+
+.circle-mutace {
+  stroke: none;
+}
+
+.circle-valec {
+  stroke: #000;
+  fill: #fff;
+  stroke-width: 1px;
+}
+
+path {
+  fill: none;
+  stroke: #fff000;
+  stroke-width: 2px;
+}
