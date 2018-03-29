@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#ctnr {
+  transform: translate(300px, -80px) scale(-1, 1) rotate(41deg);
+}
+
+#route {
+
+}
+
+.c {
+  stroke: none;
+  stroke-width: 1px;
+}
